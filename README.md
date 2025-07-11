@@ -21,7 +21,7 @@ cd ATVIII-WB
 
 3. **Instale as dependências do frontend** 
 
-Instale as dependências necessárias para rodar o frontend:
+Usando a versão do node v20.11.1, instale as dependências necessárias para rodar o frontend:
 
 ```bash
 npm install
